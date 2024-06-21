@@ -1,10 +1,6 @@
-![](https://drive.google.com/uc?export=view&id=1ClsPCFfD74ZYVZkpMDEDaZMzfO-PMBa9)
+# **FasimagiLand** 
 
-# **Next Hotel** 
-
-#### Take You To The Next Level
-
-This repository is the Capstone Project in [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) 2022. This application is purpose to help user to get hotel recommendations.<br><br>
+This repository is the Capstone Project in [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) 2024. Fasimagiland is an interactive storytelling app. Users can draw on the canvas, and their drawings will be analyzed to continue the story, thus creating a unique and engaging experience.<br><br>
  [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](http://developer.android.com/index.html)<br>
  
 ## Demo Video 
