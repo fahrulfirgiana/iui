@@ -1,4 +1,4 @@
-![](media/logo.png)
+![](https://drive.google.com/uc?export=view&id=10H3HcoIbQmfes-6vg3Q_JFcEYwwOqqEp)
 
 # **Next Hotel** 
 
