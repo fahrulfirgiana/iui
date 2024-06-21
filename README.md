@@ -1,4 +1,4 @@
-![](https://drive.google.com/uc?export=view&id=10H3HcoIbQmfes-6vg3Q_JFcEYwwOqqEp)
+![](https://drive.google.com/uc?export=view&id=1ClsPCFfD74ZYVZkpMDEDaZMzfO-PMBa9)
 
 # **Next Hotel** 
 
